@@ -1,5 +1,5 @@
-url: https://www.kwatra.tech
-baseurl: /
+url: http://www.kwatra.tech
+# baseurl: /
 theme: agency-jekyll-theme
 
 # Settings
