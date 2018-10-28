@@ -10,4 +10,10 @@ description: "Photography Portfolio"
 # Social
 people:
   name: Kabir Kwatra
-  
+  social:
+    - title: instagram
+    - url: https://instagram.com/kabirkwatra
+
+# Build
+markdown: kramdown
+permalink: pretty
